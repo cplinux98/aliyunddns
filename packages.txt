@@ -1,0 +1,8 @@
+aliyun-python-sdk-alidns==2.6.32
+aliyun-python-sdk-core==2.13.36
+aliyunsdkcore==1.0.3
+cffi==1.15.1
+cryptography==37.0.2
+jmespath==0.10.0
+pycparser==2.21
+pycrypto==2.6.1
