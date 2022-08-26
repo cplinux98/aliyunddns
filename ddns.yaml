@@ -1,0 +1,9 @@
+aliyun:
+  access_key_id:    # RAM账号的AccessKey ID
+  access_secret:     # RAM账号Access Key Secret
+  region_id: cn-hangzhou  # 地域ID
+  domain: linux98.com     # 主域名
+
+update_list:
+  - name: vmtest
+    type: A
